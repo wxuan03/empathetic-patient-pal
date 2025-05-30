@@ -23,8 +23,8 @@ An AI-powered therapy training platform that allows mental health professionals 
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/yourusername/therapysim.git
-cd therapysim
+git clone https://github.com/wxuan03/empathetic-patient-pal
+cd empathetic-patient-pal
 ```
 
 2.  **Backend Setup**
