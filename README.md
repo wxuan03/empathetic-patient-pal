@@ -74,6 +74,8 @@ Frontend runs on [http://localhost:8080](http://localhost:8080)
 2.  Start chatting with AI patient personas
 3.  Practice therapeutic responses in a safe environment
 
+![image](https://github.com/user-attachments/assets/fce8b33d-375c-42b5-bd62-8cf78f4acf4d)
+
 ----------
 
 Built for mental health professionals to enhance their therapeutic skills.
